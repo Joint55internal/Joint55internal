@@ -1,8 +1,7 @@
 ### Hi there 👋
 <p class="moving-text">Hello</p>
 
-```markdown
-![Moving Letters](path/to/your/animated.gif)
+
 <!--
 **Joint55internal/Joint55internal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
