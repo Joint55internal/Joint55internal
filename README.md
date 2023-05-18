@@ -16,7 +16,7 @@
 </div>
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Joint55internal&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak]([https://github-readme-streak-stats.herokuapp.com?user=your-github)
 <!--
 **Joint55internal/Joint55internal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
