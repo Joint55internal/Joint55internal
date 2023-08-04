@@ -1,4 +1,4 @@
-# Hi there I'm Toshiki👋
+# Hi there I'm Toshiki <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px" width="25px">
 ###
 ## :About
 Continue learning
