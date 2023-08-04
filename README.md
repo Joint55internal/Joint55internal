@@ -1,7 +1,8 @@
 # Hi there! I'm Toshiki <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px" width="30px">
 ###
-## :About
-Continue learning
+## About
+> I am just learning and trying new stuff for fun
+> Student
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Joint55internal&label=Profile%20views&color=0e75b6&style=flat" alt="codefreak69" /> </p>
 
 
