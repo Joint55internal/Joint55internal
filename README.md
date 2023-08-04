@@ -14,10 +14,10 @@
 
 ## 🔥 My Stats
 ####
-<p align="center">
+
 ![Joint55internal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joint55internal&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joint55internal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 <!--
 **Joint55internal/Joint55internal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
